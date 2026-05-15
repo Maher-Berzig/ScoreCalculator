@@ -30,5 +30,5 @@ Specially designed for adding numbers with fractions and keeping track of runnin
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/Maher-Berzig/score_calculator.git
-   cd score-calculator
+   git clone https://github.com/Maher-Berzig/ScoreCalculator.git
+   cd ScoreCalculator
