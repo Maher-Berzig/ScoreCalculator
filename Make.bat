@@ -1,0 +1,1 @@
+pyinstaller --icon=calc.ico --windowed --name ScoreCalculator --add-data "C:\PySchool\3.10-32-bit\Lib\site-packages\vosk;vosk" score_calculator.py

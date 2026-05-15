@@ -1,0 +1,9 @@
+## `requirements.txt`
+
+PyQt5>=5.15.0
+openpyxl>=3.0.10
+matplotlib>=3.5.0
+numpy>=1.21.0
+requests>=2.25.0
+pyaudio>=0.2.11
+vosk>=0.3.45
